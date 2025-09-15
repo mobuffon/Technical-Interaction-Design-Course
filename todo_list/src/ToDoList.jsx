@@ -71,4 +71,3 @@ export default function ToDoList ({ name, initialList}) {
 }
 
 
-// try to save the list to local storage
